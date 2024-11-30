@@ -1,5 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小潘同学的博客</title><link>https://jinglei888.github.io</link><description>记录我的技术成长历程</description><copyright>小潘同学的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cccimg.com/view.php/04fc34a64203a303975f80cc56502f25.jpg</url><title>avatar</title><link>https://jinglei888.github.io</link></image><lastBuildDate>Thu, 28 Nov 2024 03:20:00 +0000</lastBuildDate><managingEditor>小潘同学的博客</managingEditor><ttl>60</ttl><webMaster>小潘同学的博客</webMaster><item><title>昨天写了一个小项目</title><link>https://jinglei888.github.io/post/zuo-tian-xie-le-yi-ge-xiao-xiang-mu.html</link><description>这个项目是我的第一个项目吧&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>小潘同学的博客</title><link>https://jinglei888.github.io</link><description>记录我的技术成长历程</description><copyright>小潘同学的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cccimg.com/view.php/04fc34a64203a303975f80cc56502f25.jpg</url><title>avatar</title><link>https://jinglei888.github.io</link></image><lastBuildDate>Sat, 30 Nov 2024 12:14:26 +0000</lastBuildDate><managingEditor>小潘同学的博客</managingEditor><ttl>60</ttl><webMaster>小潘同学的博客</webMaster><item><title>肃清自己的圈子</title><link>https://jinglei888.github.io/post/su-qing-zi-ji-de-quan-zi.html</link><description>不困于物，不困于心&#13;
+生活越简单，人生越能感受到人生的趣味&#13;
+一个人最高级的自律，是会清理自己内心的欲望&#13;
+想要的东西越多，就越容易捕获的满足&#13;
+我们拥有的越多，我们的烦恼就越多&#13;
+寡欲心自清&#13;
+&#13;
+不要看到东西就要买买买&#13;
+那是一种内心困乏的表现&#13;
+降低自己的物欲&#13;
+&#13;
+整理自己的房间&#13;
+然后同一件物品进行一个分类&#13;
+&#13;
+比如说自己的电脑桌面&#13;
+&#13;
+要给自己的物品规定一个自己的空间&#13;
+&#13;
+先不要着急下订单&#13;
+&#13;
+。</description><guid isPermaLink="true">https://jinglei888.github.io/post/su-qing-zi-ji-de-quan-zi.html</guid><pubDate>Sat, 30 Nov 2024 12:13:50 +0000</pubDate></item><item><title>昨天写了一个小项目</title><link>https://jinglei888.github.io/post/zuo-tian-xie-le-yi-ge-xiao-xiang-mu.html</link><description>这个项目是我的第一个项目吧&#13;
 很简单&#13;
 先是用一个python简单处理了一下接口传来的图片数据保存在txt里面&#13;
 然后用一个html文件作为展示&#13;
